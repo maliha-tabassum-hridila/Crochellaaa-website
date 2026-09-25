@@ -29,9 +29,8 @@ Crochellaaa/
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://242-115-155.github.io/Crochellaaa-website/
+🔗 **Live Website:** https://maliha-tabassum-hridila.github.io/Crochellaaa-website/
 
-> Replace the above link with your actual GitHub Pages URL.
 
 ## 📸 Screenshots
 
